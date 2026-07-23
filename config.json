@@ -1,0 +1,8 @@
+{
+  "api_disabled": false,
+  "maintenance_message": "",
+  "api_base_url": "https://api.myinvois.hasil.gov.my",
+  "sandbox_base_url": "https://preprod-api.myinvois.hasil.gov.my",
+  "ubl_spec_version": "1.1",
+  "min_app_version": "1.0.0"
+}
